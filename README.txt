@@ -1,5 +1,3 @@
-This folder contains the contents of the Tomorrow.io homework assignment. I will be completing Assignment I.
-
 In order to run the jupyter notebook below place the "data/" file containing the station data in this directory.
 
 The contents can be described as the following:
