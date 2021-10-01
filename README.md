@@ -15,7 +15,7 @@ A Jupyter Notebook containing the entirety of the assignment, from analyses, mod
 ###### analysis_functions.py
 A python script containing the classes of functions I built to use for the analysis.
 
-###### Homework Assignment Presentation.pdf
+###### Bias Correction of Weather Forecasts Using Machine Learning.pdf
 A slide deck containing a presentation of my findings.
 
 
