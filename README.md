@@ -9,14 +9,14 @@ In order to run the jupyter notebook below place the "data/" file containing the
 
 The contents can be described as the following:
 
-###### analysis.ipynb
+##### Bias Correction of Weather Forecasts Using Machine Learning.pdf
+A slide deck containing a thorough presentation of my findings.
+
+##### analysis.ipynb
 A Jupyter Notebook containing the entirety of the assignment, from analyses, modeling, and plot generations.
 
-###### analysis_functions.py
+##### analysis_functions.py
 A python script containing the classes of functions I built to use for the analysis.
-
-###### Bias Correction of Weather Forecasts Using Machine Learning.pdf
-A slide deck containing a presentation of my findings.
 
 
 
@@ -27,6 +27,6 @@ forecasts that were on average 33% more accurate than previously.
 
 ![alt text](https://github.com/ldicarlo1/weather_forecast_bias_correction/blob/main/images/Screen%20Shot%202021-10-01%20at%205.05.42%20PM.png)
 
-
+### Complete analysis of the machine learning implementation can be found in the presentation PDF.
 
 
