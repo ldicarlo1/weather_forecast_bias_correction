@@ -22,8 +22,10 @@ A slide deck containing a presentation of my findings.
 
 # Results
 
+Results indicated that by using the Gradient Boosted Trees algorithm to bias correct temperature, dew point, and 10m wind speeds produced 
+forecasts that were on average 33% more accurate than previously. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ldicarlo1/weather_forecast_bias_correction/blob/main/images/Screen%20Shot%202021-10-01%20at%205.05.42%20PM.png)
 
 
 
