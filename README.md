@@ -28,6 +28,6 @@ forecasts that were on average 33% more accurate than previously.
 
 ![alt text](https://github.com/ldicarlo1/weather_forecast_bias_correction/blob/main/images/Screen%20Shot%202021-10-01%20at%205.05.42%20PM.png)
 
-### Complete analysis of the machine learning implementation can be found in the presentation PDF.
+### Complete analysis of the machine learning implementation can be found in the Bias Correction of Weather Forecasts PDF.
 
 
